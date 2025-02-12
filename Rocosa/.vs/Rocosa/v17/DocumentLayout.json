@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Rocosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9CFF1-5A7E-48DF-AFC7-A933EC5A9ED3}|Rocosa\\Rocosa.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\rocosa\\rocosa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C9CFF1-5A7E-48DF-AFC7-A933EC5A9ED3}|Rocosa\\Rocosa.csproj|solutionrelative:rocosa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Rocosa\\Rocosa\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Rocosa\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Rocosa\\Rocosa\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Rocosa\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T05:34:14.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

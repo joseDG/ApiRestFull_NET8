@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\bloggie.web\\bloggie.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\bloggie.web\\bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\bloggie.web\\bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\bloggie.web\\bloggie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D6E1A-8BBC-4184-82AA-0688310D6346}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloggieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeToolTip": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:19:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Bloggie.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\appsettings.json",
+              "RelativeToolTip": "Bloggie.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T05:19:19.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Program.cs",
+              "RelativeToolTip": "Bloggie.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:19:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\Bloggie.Web\\Bloggie.Web\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Bloggie.Web\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwD0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:14:36.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.AssemblyInfo.cs
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.RazorAssemblyInfo.cache
+C:\Users\Usuario iTC\source\repos\NZWalks.API\NZWalks\NZWalks.UI\obj\Debug\net8.0\NZWalks.UI.RazorAssemblyInfo.cs
