@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructProgramming", "StructProgramming\StructProgramming.csproj", "{EAED354E-8B57-4317-B6CE-797DDE72CE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{46E70127-E3E6-420D-909A-E61C45413216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAED354E-8B57-4317-B6CE-797DDE72CE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAED354E-8B57-4317-B6CE-797DDE72CE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAED354E-8B57-4317-B6CE-797DDE72CE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAED354E-8B57-4317-B6CE-797DDE72CE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E70127-E3E6-420D-909A-E61C45413216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E70127-E3E6-420D-909A-E61C45413216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E70127-E3E6-420D-909A-E61C45413216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E70127-E3E6-420D-909A-E61C45413216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56A97A8-A485-442D-A21B-8E4A6AE2EC0F}
+	EndGlobalSection
+EndGlobal

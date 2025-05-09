@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\bin\Debug\net8.0\01-Variables.exe
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\bin\Debug\net8.0\01-Variables.deps.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\bin\Debug\net8.0\01-Variables.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\bin\Debug\net8.0\01-Variables.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\bin\Debug\net8.0\01-Variables.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.sourcelink.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\refint\01-Variables.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\01-Variables.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\01-Variables\obj\Debug\net8.0\ref\01-Variables.dll

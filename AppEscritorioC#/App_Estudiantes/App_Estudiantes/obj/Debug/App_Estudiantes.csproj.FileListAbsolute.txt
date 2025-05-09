@@ -1,0 +1,10 @@
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\bin\Debug\App_Estudiantes.exe.config
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\bin\Debug\App_Estudiantes.exe
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\bin\Debug\App_Estudiantes.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.Properties.Resources.resources
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.csproj.GenerateResource.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.exe
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\AppEscritorioC#\App_Estudiantes\App_Estudiantes\obj\Debug\App_Estudiantes.Form1.resources

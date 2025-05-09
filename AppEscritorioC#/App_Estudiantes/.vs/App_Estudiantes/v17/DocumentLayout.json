@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\AppEscritorioC#\\App_Estudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9CD6-0340-4E61-B84E-DC9C29009306}|App_Estudiantes\\App_Estudiantes.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\appescritorioc#\\app_estudiantes\\app_estudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AED9CD6-0340-4E61-B84E-DC9C29009306}|App_Estudiantes\\App_Estudiantes.csproj|solutionrelative:app_estudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\AppEscritorioC#\\App_Estudiantes\\App_Estudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "App_Estudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\AppEscritorioC#\\App_Estudiantes\\App_Estudiantes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "App_Estudiantes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:17:00.527Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

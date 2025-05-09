@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\bin\Debug\net8.0\3-Sentecias.exe
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\bin\Debug\net8.0\3-Sentecias.deps.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\bin\Debug\net8.0\3-Sentecias.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\bin\Debug\net8.0\3-Sentecias.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\bin\Debug\net8.0\3-Sentecias.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.sourcelink.json
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\refint\3-Sentecias.dll
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.pdb
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\3-Sentecias.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\ApiNetCore8\C#_Avanzado\01-Variables\3-Sentecias\obj\Debug\net8.0\ref\3-Sentecias.dll

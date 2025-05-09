@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\c#_avanzado\\02-poo\\poo\\poo\\business\\isend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|solutionrelative:poo\\business\\isend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\c#_avanzado\\02-poo\\poo\\poo\\business\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|solutionrelative:poo\\business\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|c:\\users\\usuario itc\\documents\\apinetcore8\\c#_avanzado\\02-poo\\poo\\poo\\business\\isalable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8553FB18-0A4A-471A-A282-18E05B0EB452}|Poo\\Poo.csproj|solutionrelative:poo\\business\\isalable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISend.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\ISend.cs",
+              "RelativeDocumentMoniker": "Poo\\Business\\ISend.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\ISend.cs",
+              "RelativeToolTip": "Poo\\Business\\ISend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:33:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\Beer.cs",
+              "RelativeDocumentMoniker": "Poo\\Business\\Beer.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\Beer.cs",
+              "RelativeToolTip": "Poo\\Business\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:25:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISalable.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\ISalable.cs",
+              "RelativeDocumentMoniker": "Poo\\Business\\ISalable.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\ApiNetCore8\\C#_Avanzado\\02-POO\\Poo\\Poo\\Business\\ISalable.cs",
+              "RelativeToolTip": "Poo\\Business\\ISalable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:23:52.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
